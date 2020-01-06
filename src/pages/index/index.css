@@ -1,0 +1,9 @@
+.index {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.index > text {
+  display: block;
+}
